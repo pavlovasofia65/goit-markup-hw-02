@@ -40,7 +40,7 @@ body {
   font-style: normal;
 }
 
-.h-1 {
+.header-1 {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -49,7 +49,7 @@ body {
     color: #fff;
 }
 
-h-3 {
+header-3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -109,7 +109,7 @@ color: #404bbf;
 .section-3 {
     background-color: #F4F4FD;
 }
-.h-2 {
+.header-2 {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
