@@ -16,6 +16,12 @@ body {
 .first-link {
     color: #2e2f42;
 }
+.first-link:hover {
+    color: #404bbf;
+}
+.first-link:focus {
+    color: #404bbf;
+}
 .nav .link:focus {
     color: #404bbf;
 }
