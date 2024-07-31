@@ -48,7 +48,7 @@ body {
 .contacts:focus {
     color: #404bbf;
 }
-.header-1 {
+.first-header {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -111,14 +111,14 @@ letter-spacing: 0.02em;
 color: #404bbf;
 }
 
-.section-1 {
+.first-section {
     background-color:  #2e2f42;
 }
 
-.section-3 {
+.third-section {
     background-color: #F4F4FD;
 }
-.header-2 {
+.second-header {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
