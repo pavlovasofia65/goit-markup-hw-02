@@ -16,10 +16,10 @@ body {
 .studio {
     color: #2e2f42;
 }
-.studio .link:hover {
+.studio .a:hover {
     color: #404bbf;
 }
-.studio .link:focus {
+.studio .a:focus {
     color: #404bbf;
 }
 .logo {
@@ -62,8 +62,8 @@ h3 {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.features .link:hover,
-.features .link:focus {
+.features .a:hover,
+.features .a:focus {
     color: #404bbf;
 }
 
@@ -88,12 +88,12 @@ list-style-type: none;
     color: #fff;
     cursor: pointer;
 }
-.button .link:hover,
-.button .link:focus {
+.button .a:hover,
+.button .a:focus {
     background-color: #404BBF;  
 }
-.address > ul > li > a link:hover 
-.address > ul > li > a link:active {
+.address > ul > li > a:hover 
+.address > ul > li > a:active {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
