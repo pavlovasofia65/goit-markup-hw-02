@@ -49,7 +49,7 @@ body {
     color: #fff;
 }
 
-header-3 {
+.header-3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -116,6 +116,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .li-3-1 {
