@@ -98,8 +98,8 @@ list-style-type: none;
     color: #fff;
     cursor: pointer;
 }
-.button .a:hover,
-.button .a:focus {
+.button:hover,
+.buttons:focus {
     background-color: #404BBF;  
 }
 .address > ul > li > a:hover 
