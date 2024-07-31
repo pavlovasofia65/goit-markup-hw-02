@@ -121,8 +121,12 @@ color: #404bbf;
 .li-3-1 {
     background-color: #FFFFFF;  
 }
-.p {
+.paragraf {
+    font-weight: 400;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .footer {
