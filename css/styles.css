@@ -104,10 +104,11 @@ list-style-type: none;
     color: #fff;
     cursor: pointer;
 }
-.button:hover {
+
+.buttons:focus {
     background-color: #404BBF;  
 }
-.buttons:focus {
+.button:hover {
     background-color: #404BBF;  
 }
 .address > ul > li > a:hover 
