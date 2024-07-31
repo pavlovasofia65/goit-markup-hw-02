@@ -104,7 +104,9 @@ list-style-type: none;
     color: #fff;
     cursor: pointer;
 }
-.button:hover,
+.button:hover {
+    background-color: #404BBF;  
+}
 .buttons:focus {
     background-color: #404BBF;  
 }
