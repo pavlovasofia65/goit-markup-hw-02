@@ -105,7 +105,7 @@ list-style-type: none;
     cursor: pointer;
 }
 
-.button:focus {
+.first-section .button:focus {
     background-color: #404BBF;  
 }
 .button:hover {
