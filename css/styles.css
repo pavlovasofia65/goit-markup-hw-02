@@ -16,10 +16,10 @@ body {
 .studio {
     color: #2e2f42;
 }
-.studio .a:hover {
+.studio .link:hover {
     color: #404bbf;
 }
-.studio .a:focus {
+.studio .link:focus {
     color: #404bbf;
 }
 .logo {
