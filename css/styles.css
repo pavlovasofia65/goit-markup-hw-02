@@ -140,7 +140,7 @@ color: #404bbf;
 }
 
 .footer {
-   background-color: #2e2f42; 
+    background-color: #2e2f42; 
 }
 .accent {
     color: #f4f4fd;
@@ -156,4 +156,14 @@ color: #404bbf;
 
 .accent-header {
     color: #2e2f42;
+}
+
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
